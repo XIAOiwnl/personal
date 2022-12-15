@@ -1,17 +1,17 @@
 h1, p {
     font-family: monospace;
     color: white;
-    margin-left: 100px;
+    margin-left: 8vw;
 }
 
 h1 {
-    margin-top: 100px;
+    margin-top: 10vh;
     font-size: 30px;
     font-style: italic;
 }
 
 p {
-    margin-top: 20px;
+    margin-top: 3vh;
 }
 
 a {
